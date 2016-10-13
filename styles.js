@@ -59,7 +59,7 @@ const styles = {
   listItemBullet: {
     fontSize: 20,
     lineHeight: 20,
-    marginTop: 6,
+    marginTop: 0,
   },
   listItemNumber: {
     fontWeight: 'bold',
